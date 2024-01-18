@@ -1,0 +1,13 @@
+{
+  "name": "sbain/328/pets",
+  "authors": [
+  {
+    "name": "Sage Bain",
+    "email": "bain.sage@student.greenriver.edu"
+  }
+],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
