@@ -8,12 +8,13 @@
 
 h1 {
     text-align: center;
+    color: orange;
 }
 
 body {
     background-color: darkolivegreen;
 }
 
-a.btn-primary {
-    background-color: coral;
+a.btn {
+    background-color: orange;
 }
